@@ -1,0 +1,9 @@
+Package: heyhey
+Type: Package
+Title: proves de R
+Version: 1.0
+Date: 2016-10-07
+Author: carles Sans 
+Maintainer: Carles Sans <csans@gmail.com>
+Description: Basicament practico per poder aproar R d'aquí un parell de setmanes aixi que no es interessant mirar el que faig
+License: GPL
